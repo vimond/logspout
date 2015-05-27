@@ -1,3 +1,3 @@
-# logspout-kafka
+# logspout
 
-See https://github.com/gettyimages/logspout-kafka
+Vimond tweaks for logspout
